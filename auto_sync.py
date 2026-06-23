@@ -31,7 +31,7 @@ class SyncHandler(FileSystemEventHandler):
             subprocess.run(['git', 'add', '.'],             cwd=REPO_DIR, check=True)
             subprocess.run(['git', 'commit', '-m',
                             f'auto-sync: {fname}'],         cwd=REPO_DIR, check=True)
-            subprocess.run(['git', 'push', 'origin', 'main'], cwd=REPO_DIR, check=True)
+            subprocess.run(['git', 'push', 'origin', 'master'], cwd=REPO_DIR, check=True)
             print(f"[auto_sync] Pushed: {fname}")
         except subprocess.CalledProcessError as e:
             print(f"[auto_sync] Git error: {e}")
