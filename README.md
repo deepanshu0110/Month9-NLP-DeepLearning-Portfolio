@@ -1,5 +1,5 @@
 # Month 9 — NLP + Deep Learning Portfolio
-### Part of a 12-Month Data Science & AI Self-Study Program
+### Part of a 13-Month Data Science & AI Self-Study Program
 
 ![Score](https://img.shields.io/badge/Score-1150%2F1150-brightgreen?style=flat-square)
 ![Stars](https://img.shields.io/badge/Bonus-140★-gold?style=flat-square)
@@ -270,22 +270,22 @@ All notebooks are self-contained. Run in order within each notebook — no exter
 
 ---
 
-## Part of a Larger Program
+## The full 13-month program
 
-| Month | Focus | Status |
-|-------|-------|--------|
-| M1 | Excel & Data Analytics | ✅ Complete |
-| M2 | SQL | ✅ Complete |
-| M3 | Python & Pandas | ✅ Complete |
-| M4 | Power BI & Tableau | ✅ Complete |
-| M5 | BI + Upwork Launch | ✅ Complete |
-| M6 | Statistics & ML | ✅ Complete |
-| M7 | Advanced ML | ✅ Complete |
-| M8 | Streamlit & FastAPI | ✅ Complete |
-| **M9** | **NLP + Deep Learning** | ✅ **Complete — 1150/1150 + 140★** |
-| M10 | LangChain + MLflow + Evidently | 🔄 Next |
-| M11 | Data Engineering + CI/CD + AWS | ⏳ Upcoming |
-| M12 | Capstone + Netherlands MSc Applications | ⏳ Upcoming |
+| Month | Focus | Repo |
+|---|---|---|
+| 1 | Excel | [excel-data-analytics](https://github.com/deepanshu0110/excel-data-analytics) |
+| 2 | SQL | [Month2-SQL-Portfolio](https://github.com/deepanshu0110/Month2-SQL-Portfolio) |
+| 3 | Python + Pandas + maths bridge | [Month3-Python-Portfolio](https://github.com/deepanshu0110/Month3-Python-Portfolio) |
+| 4 | Power BI + Tableau | [Month4-PowerBI-Tableau-Portfolio](https://github.com/deepanshu0110/Month4-PowerBI-Tableau-Portfolio) |
+| 5 | Advanced BI + freelance launch | [Month5-BI-Upwork-Portfolio](https://github.com/deepanshu0110/Month5-BI-Upwork-Portfolio) |
+| 6–7 | Statistics, ML foundations, advanced ML | [Month6-and-7-Stats-ML-Portfolio](https://github.com/deepanshu0110/Month6-and-7-Stats-ML-Portfolio) |
+| 8 | Streamlit + FastAPI deployment | [Month8-Streamlit-FastAPI-Portfolio](https://github.com/deepanshu0110/Month8-Streamlit-FastAPI-Portfolio) |
+| **9** | **NLP + deep learning** | **this repo** |
+| 10 | LangChain + MLflow + drift monitoring | [Month10-LangChain-MLflow-Portfolio](https://github.com/deepanshu0110/Month10-LangChain-MLflow-Portfolio) |
+| 11 | Data engineering | [Month11-DataEngineering-Portfolio](https://github.com/deepanshu0110/Month11-DataEngineering-Portfolio) |
+| 12 | Capstone + ResumeGapAI | [Month12-Capstone-Portfolio](https://github.com/deepanshu0110/Month12-Capstone-Portfolio) |
+| 13 | Agentic AI + TeleServe capstone | [Month13-Agentic-AI-Portfolio](https://github.com/deepanshu0110/Month13-Agentic-AI-Portfolio) |
 
 ---
 
@@ -293,4 +293,4 @@ All notebooks are self-contained. Run in order within each notebook — no exter
 
 **Deepanshu** · [@deepanshu0110](https://github.com/deepanshu0110)
 
-*Targeting: TU/e MSc Data Science & AI (Sep 2027) · Freelance AI/Data Analyst · Databrief product*
+*Freelance data analyst and data scientist · Building toward an MSc in Data Science / AI*
